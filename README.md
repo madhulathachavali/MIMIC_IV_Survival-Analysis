@@ -117,11 +117,7 @@ This analysis uses the **MIMIC-IV-ED** dataset to identify key factors influenci
 ---
 
 ## ✅ Conclusion
-- Based on survival analysis (Cox models & Kaplan-Meier curves):
-
-- 🔍 Enables earlier and more accurate detection of high-risk patients, especially within the first 10 hours
-
-- 💉 Supports timely, targeted interventions guided by vital signs and clinical presentation
+- Based on survival analysis (Cox models & Kaplan-Meier curves), 🔍 Earler detection of high-risk patients, especially within the first 10 hours is essential and supported by targeted interventions guided by vital signs and clinical features
 
 ---
 
