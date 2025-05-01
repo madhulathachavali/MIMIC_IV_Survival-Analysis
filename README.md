@@ -5,6 +5,7 @@
  MIMIC-IV dataset and predicting patient outcomes and understanding healthcare risks
 
 ## 2. Predicting 30-day hospital readmissions for patients with chronic conditions using demographic and clinical data.
+- Censoring data
 
 ## 3. Applied survival analysis and Cox Proportional Hazards model to assess factors influencing readmissions.
 - Cox Proportional Hazards Model
