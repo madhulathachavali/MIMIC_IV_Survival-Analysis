@@ -18,7 +18,9 @@ This analysis uses the **MIMIC-IV-ED** dataset to identify key factors influenci
 - 👨‍⚕️ Males: 10,140 cases  
 - ⚪ White patients: 15,826 cases  
 - ⚫ Black/African American: 4,271 cases  
-- 🇵🇷 Puerto Rican: 1,589 cases  
+- 🇵🇷 Puerto Rican: 1,589 cases
+
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/47466f48-7bb2-4b15-90f7-521ca373276f" />
 
 ---
 
