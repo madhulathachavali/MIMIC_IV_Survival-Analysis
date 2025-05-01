@@ -3,6 +3,19 @@
 This analysis uses the **MIMIC-IV-ED** dataset to identify key factors influencing sepsis onset in emergency department (ED) patients. The goal is to provide **actionable insights** to improve patient care and hospital operations.
 
 ---
+## 🧰 Tools & Methods
+
+- **Libraries Used:** `pandas`, `lifelines`, `matplotlib`  
+- **Dataset:** [MIMIC-IV Emergency Department (MIMIC-IV-ED)](https://physionet.org/content/mimic-iv-ed/)  
+- **Techniques Applied:**  
+  - Survival Analysis  
+  - Cox Proportional Hazards Model (CoxPH)  
+  - Kaplan-Meier Estimation  
+- **Key Skills:**  
+  - Time-to-event modeling for sepsis onset  
+  - Clinical risk factor analysis (vital signs, demographics, acuity)  
+  - Data wrangling, statistical modeling, and visualization
+---
 
 ## 🔍 Key Insights
 - 👩 **Females** are at a higher risk for developing sepsis compared to males.  
